@@ -1,3 +1,5 @@
+//The Chopsticks Problem.
+
 #include <iostream>
 #include<stdio.h>
 #include<algorithm>
@@ -18,7 +20,7 @@ int main()
 	{
 		cout<<a[i]<<" ";
 	}*/
-	for(int i = 0;i<n-1;)
+	for(int i = 0;i<n-1;) //Increment is different for different conditions.
 	{
 		if((a[i+1]-a[i]) <= d)
 		{
