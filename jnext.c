@@ -258,7 +258,6 @@ int delete_position(List* list, int pos)
 }*/
 
 
-
 #include<stdio.h>
 #include<stdlib.h>
 
