@@ -9,7 +9,7 @@ int main()
 	int count = 0;
 	for(int i = 1;i<=sqrt(n);i++)
 	{
-		for(int j =i;i*j<=n;j++)
+		for(int j =i;i*j<=n;j++) // important step
 		{
 			count++;
 		}
