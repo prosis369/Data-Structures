@@ -1,0 +1,13 @@
+<h6>Over the years, we have been extremely privileged to have recieved the support of some magnificient personalities. We take pride in having worked with them and building a relationship of mutual trust and growth. <h6><h1>CSR Alumni</h1><br>;
+
+
+<div id=header1>
+        <div id="nav" class="top-nav">
+            <p id="logo_text">Collegiate Social Responsibility Club</p> 
+   	        <a href="index.html"><img src="images/logo.png" id="logo"></a>
+            <a href="contact.html" class="nav_link">Contact Us</a>
+            <a href="statistics.html" class="nav_link">Statistics</a>
+            <a href="connect.html" class="nav_link" id="first_link">Connect</a>
+            <a href="events.html" class="nav_link">Events</a>       
+        </div>
+</div>
