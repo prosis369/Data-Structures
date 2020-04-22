@@ -16,5 +16,9 @@ class Solution:
             if str[i] in caps:
                 x = chr(ord(str[i])+32)
                 str = str.replace(str[i],x)
+<<<<<<< HEAD
             print(str)
+=======
+            # print(str)
+>>>>>>> ae4feaf0a9e32ba8d0377e26bf8603fa5579a4ab
         return str
