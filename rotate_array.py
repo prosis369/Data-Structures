@@ -1,6 +1,10 @@
 '''
 
 189. Rotate Array - TLE
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66cdcfee516837afa3ffc26efb1f15248c869363
 Given an array, rotate the array to the right by k steps, where k is non-negative.
 
 Example 1:
@@ -16,6 +20,10 @@ Try to come up as many solutions as you can, there are at least 3 different ways
 Could you do it in-place with O(1) extra space?
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66cdcfee516837afa3ffc26efb1f15248c869363
 '''
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
