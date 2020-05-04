@@ -5,7 +5,6 @@ Sum of all Leaf nodes in a Binary Search Tree.
 
 '''
 
-
 class Node:
     def __init__(self,key):
         self.left = None
