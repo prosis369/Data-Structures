@@ -1,3 +1,9 @@
+'''
+
+NOKIA CHALLENGE - DOES NOT PASS TEST CASES
+
+'''
+
 def fun(arr):
     ans=0
     arr_set = set(arr)
