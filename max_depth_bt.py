@@ -25,6 +25,7 @@ return its depth = 3.
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def maxDepth(self, root: TreeNode) -> int:
         if root == None:
