@@ -1,4 +1,5 @@
-// Program to count islands in boolean 2D matrix 
+// Program to count islands in boolean 2D matrix
+
 #include <stdbool.h> 
 #include <stdio.h> 
 #include <string.h> 
