@@ -1,5 +1,5 @@
 // check powers of 2 using ceil, floor and log2 functions. check for cases less than or equal to 1
-// don't forget to use long long int as n is a very large number.
+// don't forget to use long long int as n is a very large number
 
 #include<iostream>
 #include<stdlib.h>
