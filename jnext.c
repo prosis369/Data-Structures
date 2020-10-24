@@ -1,5 +1,6 @@
-// To find the just next number. First implementation is without a tail pointing to the end of the list. Second implementation is using a tail pointer to the end of the list//
+// SPOJ
 
+// To find the just next number. First implementation is without a tail pointing to the end of the list. Second implementation is using a tail pointer to the end of the list//
 /*
 #include<stdio.h>
 #include<stdlib.h>
