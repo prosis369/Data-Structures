@@ -16,7 +16,6 @@ Explanation:
 
 For a given n, a gray code sequence may not be uniquely defined.
 For example, [0,2,3,1] is also a valid gray code sequence.
-
 00 - 0
 10 - 2
 11 - 3
