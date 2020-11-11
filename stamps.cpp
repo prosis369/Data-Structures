@@ -1,3 +1,4 @@
+// SPOJ
 //sort the array in descending order, then check if it adds upto sum.
 
 #include<iostream>
